@@ -1,34 +1,21 @@
-2026. 01. 24
-Lucky Bricks(1.4.7) Update
+2026. 01. 31
+Lucky Bricks(1.5.6) Update
 
- 1.  기록에 날짜 추가
-     Add date to record
- 2.  패드 색상 변경
-     Change the color of the pad
- 3.  공지 사항 및 변경 사항 팝업 추가
-     Add a notification pop-up
- 4.  버전 업데이트 확인 및
-     다운로드 링크 추가
-     Check for version updates and
-     add download links
- 5.  디스코드 점수 top3 추가
-     Add Discord Score Top3
- 6.  공지사항 팝업 크기 수정
-     Modify notice pop-up size
- 7.  기록 초기화 버튼 추가
-     Add Record Initialization button
- 8.  기록 UI 변경
-     Change Record UI
- 9.  알림 버튼 UI 변경
-     Change notice button UI
- 10. 업데이트가 있을 때
-     업데이트 버튼 표시
-     Show update buttons
-     when there is an update
- 11. 라운드당 공의 속도의 추가 값 변경
-     Change the additional value of
-     the speed of the ball per round    
- 12. 마지막 남은 벽돌은 파괴시
-     최종 점수 x 2 추가
-     Final score if the last remaining
-     brick is destroyed x 2
+1.  광고 게임 시작시 재생으로 변경
+    Change to Play at the start of the ad game
+2.  효과 /2를 +100으로 변경
+    Change effect /2 to +100
+3.  파란색 칸부터 빨간색 칸까지 각 줄마다 자물쇠 하나씩 렌덤위치에 스폰으로 변경
+    Spawn one lock for each line from blue to red, random location
+4.  마지막 브릭에 x2 이미지 생성
+    Create x2 image on last brick
+5.  바의 충돌 박스 범위 수정
+    Modify the range of collision boxes on a bar
+6.  인게임 구매 변경
+    Change in-game purchases
+7.  광고가 송출 화면 게임 화면으로 변경
+    Change the advertisement transmission screen to a game screen
+8.  개인정보 처리방침 깃으로 변경
+    Change Privacy Policy URL to Git
+9.  광고제거 버튼 디버그
+    Debug the Delete Advertisement button
