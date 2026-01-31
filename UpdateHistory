@@ -1,3 +1,27 @@
+2026. 01. 31
+Lucky Bricks(1.5.6)
+
+1.  광고 게임 시작시 재생으로 변경
+    Change to Play at the start of the ad game
+2.  효과 /2를 +100으로 변경
+    Change effect /2 to +100
+3.  파란색 칸부터 빨간색 칸까지 각 줄마다 자물쇠 하나씩 렌덤위치에 스폰으로 변경
+    Spawn one lock for each line from blue to red, random location
+4.  마지막 브릭에 x2 이미지 생성
+    Create x2 image on last brick
+5.  바의 충돌 박스 범위 수정
+    Modify the range of collision boxes on a bar
+6.  인게임 구매 변경
+    Change in-game purchases
+7.  광고가 송출 화면 게임 화면으로 변경
+    Change the advertisement transmission screen to a game screen
+8.  개인정보 처리방침 깃으로 변경
+    Change Privacy Policy URL to Git
+9.  광고제거 버튼 디버그
+    Debug the Delete Advertisement button
+
+----------------------------------------------------------------
+
 2026. 01. 24
 Lucky Bricks(1.4.7) Update
 
