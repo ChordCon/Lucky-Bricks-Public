@@ -1,2 +1,3 @@
 # Lucky-Bricks-Public
-version check
+
+Public Page
