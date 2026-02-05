@@ -1,13 +1,14 @@
 2026. 02. 05
-Lucky Bricks(1.6.4)
+Lucky Bricks(1.6.5)
 
 1.  Change the ad deletion price by $1
 2.  Modify the Remove Advertisement button
 3.  Modify the Probability Notification button
-4.  Add a text stating that the payment amount varies depending on the exchange rate
+4.  Added notice of change in amount
 5.  Change the speed difficulty of the ball
-6.  Change score increase to 10 points
-7.  Correction of errors in the End Game button if the network is not connected
-8.  Adding a message to the notification that an Internet connection is required
-9.  Patch details are announced in English and Korean, respectively
-10. Added ability to store top three scores and patch details online and display them offline
+6.  Increase bar default size
+7.  Increase bar movement speed
+8.  Change score increase to 10 points
+9.  Correct game exit error if network is not connected
+10. Adding Internet Connection Messages to Notifications
+11. Patch details are announced in English and Korean
