@@ -1,5 +1,5 @@
 2026. 02. 05
-Lucky Bricks(1.6.4)
+Lucky Bricks(1.6.5)
 
 1.  광고 삭제 가격을 $1 변경
     Change the ad deletion price by $1
@@ -19,8 +19,10 @@ Lucky Bricks(1.6.4)
     Adding a message to the notification that an Internet connection is required
 9.  패치 세부 사항은 각각 영어와 한국어로 공지
     Patch details are announced in English and Korean, respectively
-10. 상위 세 개의 점수와 패치 세부 정보를 온라인에 저장하고 오프라인에 표시하는 기능 추가
-    Added ability to store top three scores and patch details online and display them offline
+10. 바 기본 크기 증가
+    Increase bar default size
+11. 바 속도 증가
+    Increase bar movement speed 
 
 ----------------------------------------------------------------------------
 
