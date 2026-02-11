@@ -1,7 +1,11 @@
-2026. 02. 08
-Lucky Bricks(1.6.6)
+2026. 02. 11
+Lucky Bricks(1.7.1)
 
-1.  Changing the Tutorial Image
-2.  Delete last brick image, replace with effect text
-3.  Modify the menu screen UI
-4.  Modify game screen UI
+1. Change App Logo
+2. Change bar design
+3. Add and change sound
+4. Add stage sound and effects
+5. Change Brick Destruction Acoustics
+6. Add vibration in case of block destruction
+7. Modifying the Brick Design
+8. Changing Font
