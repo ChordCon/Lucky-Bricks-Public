@@ -1,3 +1,25 @@
+
+2026. 02. 23
+Lucky Bricks(1.7.4)
+
+테스터 의견 반영
+1. 공의 벽을 무한히 왕복하는 것을 방지
+2. 광고가 덜 자주 수정
+디버그 및 추가
+1. 효과 텍스트 버그 수정
+2. 게임 도우미 추가
+
+Lucky Briggs (1.7.4)
+
+Reflect tester comments
+1. preventing the wall of the ball from reciprocating indefinitely
+2. Less frequent ad play
+Debug and add
+1. Fix effect text bug
+2. Add Play Games Helper
+
+--------------------------------------------------------------
+
 2026. 02. 14
 Lucky Bricks(1.7.3) Update
 
