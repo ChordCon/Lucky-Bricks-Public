@@ -1,9 +1,5 @@
-2026. 02. 23
-Lucky Briggs (1.7.4)
+2026 .03. 03
+Lucky Bricks(2.0.0)
 
 Reflect tester comments
-1. preventing the wall of the ball from reciprocating indefinitely
-2. Less frequent ad play
-Debug and add
-1. Fix effect text bug
-2. Add Play Games Helper
+1. Add Google Play Games login functionality
