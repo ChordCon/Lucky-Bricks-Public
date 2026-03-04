@@ -45,7 +45,7 @@ If you have any questions or suggestions about this Privacy Policy, do not hesit
  - Email: gustn400@naver.com
 
 # 개인정보처리방침 (Lucky Bricks)
-  -최종 수정일: 2026년 3월 04일
+  -최종 수정일: 2026-03-04
 
 [한국어]
 
