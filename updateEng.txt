@@ -1,5 +1,6 @@
-2026 .03. 03
-Lucky Bricks(2.0.0)
+2026 .03. 04
+Lucky Bricks(2.0.5)
 
 Reflect tester comments
 1. Add Google Play Games login functionality
+2. Implementing a World Leader Board with PlayFab
