@@ -1,1 +1,5 @@
-noticeEng
+Notice
+
+Currently, there is an error related to the World Ranking and the Google Play Games login, and it is being corrected.
+I will quickly revise it and upload it.
+Thank you.
