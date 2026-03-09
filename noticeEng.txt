@@ -1,7 +1,8 @@
 Notice
 
-Currently, there is an error related to the World Ranking and the Google Play Games login, and it is being corrected.
-I will quickly revise it and upload it.
+Combo system, game achievement buff added.
+Get a higher score!
+
 For inquiries and suggestions, please use Discord or email below.
 Thank you.
 
