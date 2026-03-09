@@ -1,6 +1,8 @@
-2026 .03. 06
-Lucky Bricks(2.1.0)
+2026 .03. 09
+Lucky Bricks(2.1.3)
 
-1.Correction of leaderboard error
-2.Correction of Google ID related errors
-3.Add announcements to notifications
+1.top3Nickname display error correction
+2.ui Font Size Modification
+3.Notice ui modification
+4.Add Combo System
+5.Added game achievement buffs
