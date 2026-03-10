@@ -12,13 +12,13 @@ Last Updated: 2026-03-10
 
 3. Use of Service and Restrictions
 
-  Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
+- Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
 
- - Engaging in any illegal or criminal activities.
+ -- Engaging in any illegal or criminal activities.
 
- - Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
+ -- Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
 
- - Impersonating others or harassing other users.
+ -- Impersonating others or harassing other users.
 
 4. In-App Purchases (Ads Removal)
    
