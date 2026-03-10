@@ -1,61 +1,55 @@
 [English]
-
 Terms of Service (Lucky Bricks)
-
 Last Updated: 2026-03-10
 
-1. Acceptance of Terms
-By downloading or playing "Lucky Bricks" (the "Game"), you agree to these Terms of Service. If you do not agree, please do not use the Game.
+1. Purpose
+These Terms of Service (the "Terms") govern the conditions and procedures for using "Lucky Bricks" (the "Game"), as well as the rights, obligations, and responsibilities of the user and the developer.
 
-2. License Grant
-We grant you a non-exclusive, non-transferable, revocable license to use the Game for your personal, non-commercial entertainment purposes.
+2. Acceptance of Terms
+By checking the "I agree to the Terms of Service" box, you agree to these Terms of Service. If you do not agree to these terms, please do not check the box and do not use the Game.
 
-3. User Conduct
-You agree not to:
+3. Use of Service and Restrictions
+Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
 
- - Use the Game for any illegal purpose.
+Engaging in any illegal or criminal activities.
 
- - Modify, hack, or reverse-engineer the Game.
+Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
 
- - Use cheats, automation software, or any unauthorized third-party tools.
-
- - Impersonate others or harass other users.
+Impersonating others or harassing other users.
 
 4. In-App Purchases (Ads Removal)
-The Game offers an "Ads Removal" feature through an in-app purchase. All purchases are processed by Google Play. Please refer to Google’s payment terms. You can restore your purchase via the "Restore" button within the game settings.
+The Game offers an "Ads Removal" feature through an in-app purchase. All purchases are processed by the Google Play payment system. You can restore your purchase via the "Restore" button within the game settings when changing devices.
 
 5. Intellectual Property
-All rights, titles, and interests in the Game (including code, design, and graphics) are owned by the developer.
+All rights, titles, and interests in the Game (including code, design, and graphics) are owned by the developer. Users may not copy or distribute these materials without explicit permission.
 
 6. Limitation of Liability
-To the maximum extent permitted by law, the developer shall not be liable for any indirect, incidental, or consequential damages resulting from your use of the Game.
+The developer shall not be liable for any service interruptions caused by force majeure, such as natural disasters, server maintenance, or changes in the user’s device environment.
 
 7. Termination
-We reserve the right to suspend or terminate your access to the Game if you violate these Terms.
+If a user violates these Terms, the developer reserves the right to restrict access to the service or suspend the account without prior notice.
 
 8. Governing Law
-These terms are governed by the laws of the Republic of Korea. Any disputes shall be resolved in the courts of the Republic of Korea.
+These terms are governed by the laws of the Republic of Korea. Any disputes arising from these terms shall be resolved in the courts of the Republic of Korea.
 
 [한국어]
-
 서비스 이용약관 (Lucky Bricks)
-
 최종 수정일: 2026-03-10
 
 제1조 (목적)
 본 약관은 "Lucky Bricks"(이하 "본 게임")의 이용 조건 및 절차, 이용자와 개발자의 권리/의무 및 책임사항을 규정함을 목적으로 합니다.
 
 제2조 (이용계약의 체결)
-본 게임을 설치하거나 이용함으로써 이용자는 본 약관에 동의한 것으로 간주합니다.
+본 게임 내 ‘서비스 이용약관에 동의합니다’ 체크박스에 체크하는 것은 본 약관에 동의한 것으로 간주합니다. 만약 본 약관에 동의하지 않는 경우, 체크박스에 체크하지 마시고 본 게임을 이용하지 마십시오.
 
 제3조 (서비스 이용 및 제한)
 이용자는 개인적, 비상업적 목적에 한하여 본 게임을 이용할 수 있습니다. 다음 행위는 금지됩니다.
 
- - 법령 위반 행위 및 범죄 행위
+법령 위반 행위 및 범죄 행위
 
- - 게임 서버 해킹, 코드 수정, 자동화 프로그램(매크로) 사용
+게임 서버 해킹, 코드 수정, 자동화 프로그램(매크로) 사용
 
- - 타인 사칭 및 타인에 대한 비방/괴롭힘
+타인 사칭 및 타인에 대한 비방/괴롭힘
 
 제4조 (유료 결제 - 광고 제거)
 본 게임은 인앱 결제를 통해 '광고 제거' 기능을 제공합니다. 결제는 Google Play 결제 시스템을 통해 이루어집니다. 결제 복구(Restore) 기능을 통해 기기 변경 시에도 구매 내역을 유지할 수 있습니다.
