@@ -11,11 +11,11 @@ By checking the "I agree to the Terms of Service" box, you agree to these Terms 
 3. Use of Service and Restrictions
 Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
 
-Engaging in any illegal or criminal activities.
+ - Engaging in any illegal or criminal activities.
 
-Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
+ - Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
 
-Impersonating others or harassing other users.
+ - Impersonating others or harassing other users.
 
 4. In-App Purchases (Ads Removal)
 The Game offers an "Ads Removal" feature through an in-app purchase. All purchases are processed by the Google Play payment system. You can restore your purchase via the "Restore" button within the game settings when changing devices.
@@ -45,11 +45,11 @@ These terms are governed by the laws of the Republic of Korea. Any disputes aris
 제3조 (서비스 이용 및 제한)
 이용자는 개인적, 비상업적 목적에 한하여 본 게임을 이용할 수 있습니다. 다음 행위는 금지됩니다.
 
-법령 위반 행위 및 범죄 행위
+ - 법령 위반 행위 및 범죄 행위
 
-게임 서버 해킹, 코드 수정, 자동화 프로그램(매크로) 사용
+ - 게임 서버 해킹, 코드 수정, 자동화 프로그램(매크로) 사용
 
-타인 사칭 및 타인에 대한 비방/괴롭힘
+ - 타인 사칭 및 타인에 대한 비방/괴롭힘
 
 제4조 (유료 결제 - 광고 제거)
 본 게임은 인앱 결제를 통해 '광고 제거' 기능을 제공합니다. 결제는 Google Play 결제 시스템을 통해 이루어집니다. 결제 복구(Restore) 기능을 통해 기기 변경 시에도 구매 내역을 유지할 수 있습니다.
