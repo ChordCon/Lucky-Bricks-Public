@@ -1,4 +1,5 @@
-[English] 
+[English]
+
 Terms of Service (Lucky Bricks)
 Last Updated: 2026-03-10
 
@@ -11,13 +12,13 @@ We grant you a non-exclusive, non-transferable, revocable license to use the Gam
 3. User Conduct
 You agree not to:
 
-Use the Game for any illegal purpose.
+ - Use the Game for any illegal purpose.
 
-Modify, hack, or reverse-engineer the Game.
+ - Modify, hack, or reverse-engineer the Game.
 
-Use cheats, automation software, or any unauthorized third-party tools.
+ - Use cheats, automation software, or any unauthorized third-party tools.
 
-Impersonate others or harass other users.
+ - Impersonate others or harass other users.
 
 4. In-App Purchases (Ads Removal)
 The Game offers an "Ads Removal" feature through an in-app purchase. All purchases are processed by Google Play. Please refer to Google’s payment terms. You can restore your purchase via the "Restore" button within the game settings.
@@ -35,6 +36,7 @@ We reserve the right to suspend or terminate your access to the Game if you viol
 These terms are governed by the laws of the Republic of Korea. Any disputes shall be resolved in the courts of the Republic of Korea.
 
 [한국어]
+
 서비스 이용약관 (Lucky Bricks)
 최종 수정일: 2026-03-10
 
@@ -47,11 +49,11 @@ These terms are governed by the laws of the Republic of Korea. Any disputes shal
 제3조 (서비스 이용 및 제한)
 이용자는 개인적, 비상업적 목적에 한하여 본 게임을 이용할 수 있습니다. 다음 행위는 금지됩니다.
 
-법령 위반 행위 및 범죄 행위
+ - 법령 위반 행위 및 범죄 행위
 
-게임 서버 해킹, 코드 수정, 자동화 프로그램(매크로) 사용
+ - 게임 서버 해킹, 코드 수정, 자동화 프로그램(매크로) 사용
 
-타인 사칭 및 타인에 대한 비방/괴롭힘
+ - 타인 사칭 및 타인에 대한 비방/괴롭힘
 
 제4조 (유료 결제 - 광고 제거)
 본 게임은 인앱 결제를 통해 '광고 제거' 기능을 제공합니다. 결제는 Google Play 결제 시스템을 통해 이루어집니다. 결제 복구(Restore) 기능을 통해 기기 변경 시에도 구매 내역을 유지할 수 있습니다.
