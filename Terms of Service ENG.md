@@ -1,4 +1,5 @@
 Terms of Service (Lucky Bricks)
+
 Last Updated: 2026-03-10
 
 1. Purpose
