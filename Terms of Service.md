@@ -1,5 +1,7 @@
 [English]
+
 Terms of Service (Lucky Bricks)
+
 Last Updated: 2026-03-10
 
 1. Purpose
@@ -11,11 +13,11 @@ By checking the "I agree to the Terms of Service" box, you agree to these Terms 
 3. Use of Service and Restrictions
 Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
 
- - Engaging in any illegal or criminal activities.
+  - Engaging in any illegal or criminal activities.
 
- - Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
-
- - Impersonating others or harassing other users.
+  - Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
+ 
+  - Impersonating others or harassing other users.
 
 4. In-App Purchases (Ads Removal)
 The Game offers an "Ads Removal" feature through an in-app purchase. All purchases are processed by the Google Play payment system. You can restore your purchase via the "Restore" button within the game settings when changing devices.
@@ -33,7 +35,9 @@ If a user violates these Terms, the developer reserves the right to restrict acc
 These terms are governed by the laws of the Republic of Korea. Any disputes arising from these terms shall be resolved in the courts of the Republic of Korea.
 
 [한국어]
+
 서비스 이용약관 (Lucky Bricks)
+
 최종 수정일: 2026-03-10
 
 제1조 (목적)
