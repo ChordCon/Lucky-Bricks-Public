@@ -14,11 +14,11 @@ Last Updated: 2026-03-10
 
 - Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
 
- + Engaging in any illegal or criminal activities.
+ 3-1 Engaging in any illegal or criminal activities.
 
- + Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
+ 3-2 Hacking the game server, modifying the game code, or using unauthorized automation software (macros).
 
- + Impersonating others or harassing other users.
+ 3-3 Impersonating others or harassing other users.
 
 4. In-App Purchases (Ads Removal)
    
