@@ -1,6 +1,7 @@
 # 🎮 Game Bonus & Effect Guide
 
 본 가이드는 게임 내 아이템 효과와 최종 점수 합산 시 적용되는 보너스 규칙을 설명합니다.
+
 *This guide explains the item effects and bonus scoring rules applied at the end of each session.*
 
 ---
