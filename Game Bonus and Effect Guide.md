@@ -1,4 +1,4 @@
-# 🎮 Game Bonus & Effect Guide
+# 🎮 게임 보너스 & 효과 가이드 (Game Bonus & Effect Guide)
 
 본 가이드는 게임 내 아이템 효과와 최종 점수 합산 시 적용되는 보너스 규칙을 설명합니다.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ 1. Basic Item Effects
+## ⚡ 1. 효과들 (Effects)
 각 효과는 **16.67%**의 확률로 등장합니다. 
 
 *Each effect has a **16.67%** chance to appear.*
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔢 2. Number Bonus
+## 🔢 2. 숫자 보너스 (Number Bonus)
 
 동일한 카테고리 내에서는 **가장 높은 배율**이 적용됩니다.
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🎨 3. Color Bonus
+## 🎨 3. 컬러 보너스 (Color Bonus)
 
 특정 색상 계열의 아이템으로만 구성했을 때 추가 배율을 획득합니다.
 
@@ -61,8 +61,8 @@
 
 ## 💡 How to Score Higher
 
-> **Tip:** 숫자 보너스와 컬러 보너스는 **중첩(Stackable)**이 가능합니다!
+**Tip:** 숫자 보너스와 컬러 보너스는 **중첩(Stackable)**이 가능합니다!
 
-> *Tip: Number bonuses and Color bonuses are **stackable**!*
+*Tip: Number bonuses and Color bonuses are **stackable**!*
 
 ---
