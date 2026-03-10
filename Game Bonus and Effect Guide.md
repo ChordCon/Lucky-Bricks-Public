@@ -8,6 +8,7 @@
 
 ## ⚡ 1. Basic Item Effects
 각 효과는 **16.67%**의 확률로 등장합니다. 
+
 *Each effect has a **16.67%** chance to appear.*
 
 | Item ID | Effect (KR) | Effect (EN) |
@@ -20,12 +21,15 @@
 | **6 (Red)** | 점수 x2 | Score x 2 |
 
 > **Note:** 바 크기나 공 속도가 최소/최대치에 도달하면 해당 효과는 적용되지 않습니다.
+
 > *Note: Effects do not apply if the limit is already reached.*
 
 ---
 
 ## 🔢 2. Number Bonus
+
 동일한 카테고리 내에서는 **가장 높은 배율**이 적용됩니다.
+
 *The highest multiplier applies if multiple conditions are met within this category.*
 
 | Bonus Name | Multiplier | Condition (KR) | Condition (EN) |
@@ -42,7 +46,9 @@
 ---
 
 ## 🎨 3. Color Bonus
+
 특정 색상 계열의 아이템으로만 구성했을 때 추가 배율을 획득합니다.
+
 *Earn additional multipliers by collecting items of specific color sets.*
 
 | Bonus Name | Multiplier | Condition (KR) | Condition (EN) |
@@ -54,8 +60,9 @@
 ---
 
 ## 💡 How to Score Higher
-> **Tip:** 숫자 보너스와 컬러 보너스는 **중첩(Stackable)**이 가능합니다! 
-> 
+
+> **Tip:** 숫자 보너스와 컬러 보너스는 **중첩(Stackable)**이 가능합니다!
+
 > *Tip: Number bonuses and Color bonuses are **stackable**!*
 
 ---
