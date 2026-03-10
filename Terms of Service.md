@@ -1,6 +1,7 @@
 [English]
 
 Terms of Service (Lucky Bricks)
+
 Last Updated: 2026-03-10
 
 1. Acceptance of Terms
@@ -38,6 +39,7 @@ These terms are governed by the laws of the Republic of Korea. Any disputes shal
 [한국어]
 
 서비스 이용약관 (Lucky Bricks)
+
 최종 수정일: 2026-03-10
 
 제1조 (목적)
