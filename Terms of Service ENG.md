@@ -12,7 +12,7 @@ Last Updated: 2026-03-10
 
 3. Use of Service and Restrictions
 
-- Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
+  Users may use the Game for personal, non-commercial purposes only. The following actions are prohibited:
 
  - Engaging in any illegal or criminal activities.
 
