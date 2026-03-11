@@ -1,8 +1,7 @@
-2026 .03. 09
-Lucky Bricks(2.1.3)
+2026.03.11
+Lucky Bricks(2.1.4)
 
-1.top3Nickname display error correction
-2.ui Font Size Modification
-3.Notice ui modification
-4.Add Combo System
-5.Added game achievement buffs
+1.Modify TOP3 Interworking
+2.Modify Game Over Pop-up
+3.Add accomplishments and correct errors
+4.Add Terms and Conditions
