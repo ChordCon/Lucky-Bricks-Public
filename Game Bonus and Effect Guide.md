@@ -11,7 +11,7 @@
 
 *Each effect has a **16.67%** chance to appear.*
 
-| Item ID | Effect (KR) | Effect (EN) |
+| Effect ID | Effect (KR) | Effect (EN) |
 | :--- | :--- | :--- |
 | **1 (Blue)** | 공 속도 감소 | Ball speed down |
 | **2 (Red)** | 공 속도 증가 | Ball speed up |
@@ -34,14 +34,14 @@
 
 | Bonus Name | Multiplier | Condition (KR) | Condition (EN) |
 | :--- | :--- | :--- | :--- |
-| **Straight Number** | **x 4.0** | 5개 이상 연속 숫자로 효과 구성 | A sequence of 5+ consecutive items |
-| **Quad Combo** | **x 3.5** | 동일한 효과 4개씩 2쌍 | Two sets of 4 identical items |
-| **Balanced Combo** | **x 3.0** | 동일한 효과 3개씩 2쌍 + 2개씩 2쌍 | Two sets of 3 + Two sets of 2 identical items |
-| **Full Stack** | **x 3.0** | 동일한 효과 8개 이상 | 8+ items of the same type |
-| **Half Stack** | **x 2.5** | 동일한 효과 4~7개 | 4 to 7 items of the same type |
-| **Triple Combo** | **x 2.0** | 동일한 효과 3개씩 2쌍 이상 | Two or more sets of 3 identical items |
-| **Duet Master** | **x 1.5** | 동일한 효과 2개씩 4쌍 이상 | Four or more sets of 2 identical items |
-| **Duet Combo** | **x 1.2** | 동일한 효과 2개씩 2쌍 이상 | Two or more sets of 2 identical items |
+| **Straight Number** | **x 4.0** | 5개 이상 연속 숫자로 효과 구성 | A sequence of 5+ consecutive effects |
+| **Quad Combo** | **x 3.5** | 동일한 효과 4개씩 2쌍 | Two sets of 4 identical effects |
+| **Balanced Combo** | **x 3.0** | 동일한 효과 3개씩 2쌍 + 2개씩 2쌍 | Two sets of 3 + Two sets of 2 identical effects |
+| **Full Stack** | **x 3.0** | 동일한 효과 8개 이상 | 8+ effects of the same type |
+| **Half Stack** | **x 2.5** | 동일한 효과 4~7개 | 4 to 7 effects of the same type |
+| **Triple Combo** | **x 2.0** | 동일한 효과 3개씩 2쌍 이상 | Two or more sets of 3 identical effects |
+| **Duet Master** | **x 1.5** | 동일한 효과 2개씩 4쌍 이상 | Four or more sets of 2 identical effects |
+| **Duet Combo** | **x 1.2** | 동일한 효과 2개씩 2쌍 이상 | Two or more sets of 2 identical effects |
 
 ---
 
@@ -49,13 +49,13 @@
 
 특정 색상 계열의 아이템으로만 구성했을 때 추가 배율을 획득합니다.
 
-*Earn additional multipliers by collecting items of specific color sets.*
+*Earn additional multipliers by collecting effects of specific color sets.*
 
 | Bonus Name | Multiplier | Condition (KR) | Condition (EN) |
 | :--- | :--- | :--- | :--- |
-| **Red Set** | **x 2.0** | 2, 4, 5, 6 으로만 구성 | 2, 4, 5, 6 only (Must include 5, 6) |
-| **Pure Red Set** | **x 2.5** | 2, 4로만 구성 | 2, 4 only (Exclude 5, 6) |
-| **Blue Set** | **x 3.0** | 1, 3으로만 구성 | 1, 3 only |
+| **Red Set** | **x 2.0** | 2, 4, 5, 6 으로만 구성 | Effect ID 2, 4, 5, 6 only (Must include 5, 6) |
+| **Pure Red Set** | **x 2.5** | 2, 4로만 구성 | Effect ID 2, 4 only (Exclude 5, 6) |
+| **Blue Set** | **x 3.0** | 1, 3으로만 구성 | Effect ID 1, 3 only |
 
 ---
 
