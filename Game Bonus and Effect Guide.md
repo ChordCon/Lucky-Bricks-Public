@@ -34,14 +34,14 @@
 
 | Bonus Name | Multiplier | Condition (KR) | Condition (EN) |
 | :--- | :--- | :--- | :--- |
-| **Rainbow Chain** | **x 4.0** | 5개 이상 연속 숫자로 효과 구성 | A sequence of 5+ consecutive items |
-| **Ultimate Quad** | **x 3.5** | 동일한 효과 4개씩 2쌍 | Two sets of 4 identical items |
-| **Perfect Balance** | **x 3.0** | 동일한 효과 3개씩 2쌍 + 2개씩 2쌍 | Two sets of 3 + Two sets of 2 identical items |
+| **Straight Number** | **x 4.0** | 5개 이상 연속 숫자로 효과 구성 | A sequence of 5+ consecutive items |
+| **Quad Combo** | **x 3.5** | 동일한 효과 4개씩 2쌍 | Two sets of 4 identical items |
+| **Balanced Combo** | **x 3.0** | 동일한 효과 3개씩 2쌍 + 2개씩 2쌍 | Two sets of 3 + Two sets of 2 identical items |
 | **Full Stack** | **x 3.0** | 동일한 효과 8개 이상 | 8+ items of the same type |
 | **Half Stack** | **x 2.5** | 동일한 효과 4~7개 | 4 to 7 items of the same type |
-| **Triple Crown** | **x 2.0** | 동일한 효과 3개씩 2쌍 이상 | Two or more sets of 3 identical items |
-| **Octo-Pair** | **x 1.5** | 동일한 효과 2개씩 4쌍 이상 | Four or more sets of 2 identical items |
-| **Double Duo** | **x 1.2** | 동일한 효과 2개씩 2쌍 이상 | Two or more sets of 2 identical items |
+| **Triple Combo** | **x 2.0** | 동일한 효과 3개씩 2쌍 이상 | Two or more sets of 3 identical items |
+| **Duet Master** | **x 1.5** | 동일한 효과 2개씩 4쌍 이상 | Four or more sets of 2 identical items |
+| **Duet Combo** | **x 1.2** | 동일한 효과 2개씩 2쌍 이상 | Two or more sets of 2 identical items |
 
 ---
 
@@ -54,8 +54,8 @@
 | Bonus Name | Multiplier | Condition (KR) | Condition (EN) |
 | :--- | :--- | :--- | :--- |
 | **Red Set** | **x 2.0** | 2, 4, 5, 6 으로만 구성 | 2, 4, 5, 6 only (Must include 5, 6) |
-| **Blue Set** | **x 3.0** | 1, 3으로만 구성 | 1, 3 only |
 | **Pure Red Set** | **x 2.5** | 2, 4로만 구성 | 2, 4 only (Exclude 5, 6) |
+| **Blue Set** | **x 3.0** | 1, 3으로만 구성 | 1, 3 only |
 
 ---
 
