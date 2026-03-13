@@ -1,7 +1,9 @@
-2026.03.11
-Lucky Bricks(2.1.4)
+2026.03.13
+Lucky Bricks(2.1.5)
 
-1.Modify TOP3 Interworking
-2.Modify Game Over Pop-up
-3.Add accomplishments and correct errors
-4.Add Terms and Conditions
+1.Ball position initialization Error Correct
+2.Top 3 Error Correction
+3.Modifying tutorials
+4.Terms and Conditions Pop-up Error Correct
+5.Add a Help button
+6.Add refund method
