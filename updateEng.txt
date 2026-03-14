@@ -1,9 +1,7 @@
-2026.03.13
-Lucky Bricks(2.1.5)
+2026.03.14
+Lucky Bricks(2.1.7)
 
-1.Ball position initialization Error Correct
-2.Top 3 Error Correction
-3.Modifying tutorials
-4.Terms and Conditions Pop-up Error Correct
-5.Add a Help button
-6.Add refund method
+1.Change bonus wording
+2.Top3 Update Error Correct
+3.Modifying the Update button
+4.World Ranking Seasonal Notice Added
