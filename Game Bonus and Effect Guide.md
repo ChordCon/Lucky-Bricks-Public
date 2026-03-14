@@ -26,6 +26,10 @@
 
 ---
 
+**숫자 보너스와 컬러 보너스는 효과를 10개 모아야 활성화 됩니다.**
+
+**Collect 10 effects to activate Number and Color Bonuses.**
+
 ## 🔢 2. 숫자 보너스 (Number Bonus)
 
 동일한 카테고리 내에서는 **가장 높은 배율**이 적용됩니다.
