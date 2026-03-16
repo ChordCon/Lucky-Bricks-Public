@@ -25,11 +25,3 @@
 | **4 Combo** | 90 | 108 | 126 |
 
 ---
-
-## 참고 사항 (Note)
-
-* **0콤보일 때는** 스테이지 배율이 적용되지 않으며, 무조건 **10점**을 획득합니다.  
-  *(At 0 combos, the stage multiplier is not applied, and you will always receive 10 points.)*
-
-* **1콤보부터는** 스테이지 단계에 따른 배율이 적용되어 점수가 산출됩니다.  
-  *(From 1 combo onwards, the stage multiplier is applied to calculate your score.)
