@@ -1,6 +1,6 @@
 # 🎮 점수 획득 공식 안내 (Scoring System Guide)
 
-본 게임의 점수는 **[콤보 수]**와 **[스테이지 단계]**에 따라 최종 결정됩니다.  
+본 게임의 점수는 [콤보 수]와 [스테이지 단계]에 따라 최종 결정됩니다.  
 *Your final score is determined by your **[Combo count]** and the **[Current Stage]**.*
 
 ---
