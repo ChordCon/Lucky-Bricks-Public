@@ -1,7 +1,10 @@
-2026.03.15
-Lucky Bricks(2.2.0)
+2026.03.17
+Lucky Bricks(2.2.1)
 
-1.Change bonus wording
-2.Top3 Update Error Correct
-3.Modifying the Update button
-4.World Ranking Seasonal Notice Added
+1.Combination score differential by stage
+2.Modify game screen UI
+3.Modify Top 3 UI Size
+4.Modifying tutorials
+5.Modify Guide Pop-up
+6.Modifying the Leaderboard
+7.Adjust bar speed
