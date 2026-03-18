@@ -1,5 +1,5 @@
 2026.03.18
-Lucky Bricks(2.2.2)
+Lucky Bricks(2.2.3)
 
 1.Combination score differential by stage
 2.Further UI Layout & Scaling Fixes
