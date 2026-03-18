@@ -1,8 +1,8 @@
-2026.03.17
-Lucky Bricks(2.2.1)
+2026.03.18
+Lucky Bricks(2.2.2)
 
 1.Combination score differential by stage
-2.Modify game screen UI
+2.Further UI Layout & Scaling Fixes
 3.Modify Top 3 UI Size
 4.Modifying tutorials
 5.Modify Guide Pop-up
