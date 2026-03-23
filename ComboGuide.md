@@ -7,7 +7,8 @@
 
 ## 1. 점수 산출 공식 (Scoring Formula)
 
-* **0콤보 (첫 타격 시):** 스테이지 단계와 무관하게 **10점 고정** *(0 Combo (First hit): Fixed at **10 points**, regardless of the stage.)*
+* **0콤보 (첫 타격 시):** 스테이지 단계와 무관하게 **10점 고정**
+   * *(0 Combo (First hit): Fixed at **10 points**, regardless of the stage.)*
 
 * **1 ~ 4 콤보 (x20 구간):** `(10 + (현재 콤보 × 20)) × (1.0 + (스테이지 단계 × 0.2))`  
     *(1 to 4 Combos: `(10 + (Current Combo × 20)) × (1.0 + (Stage × 0.2))`)*
