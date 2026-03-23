@@ -1,5 +1,5 @@
 2026.03.23
-Lucky Bricks(2.2.7)
+Lucky Bricks(2.2.8)
 
 Proceed with public testing
 1. Modify the frequency of the ball reset pop-up
