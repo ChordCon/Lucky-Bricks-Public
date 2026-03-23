@@ -1,10 +1,7 @@
-2026.03.18
-Lucky Bricks(2.2.3)
+2026.03.23
+Lucky Bricks(2.2.7)
 
-1.Combination score differential by stage
-2.Further UI Layout & Scaling Fixes
-3.Modify Top 3 UI Size
-4.Modifying tutorials
-5.Modify Guide Pop-up
-6.Modifying the Leaderboard
-7.Adjust bar speed
+Proceed with public testing
+1. Modify the frequency of the ball reset pop-up
+2. Modify bar shape and speed
+3. Modifying Combo Score
