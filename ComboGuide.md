@@ -39,6 +39,10 @@
    5콤보와 10콤보를 달성하는 순간 점수 증가폭이 **2배, 3배**로 커집니다.  
    *(The score multiplier increases **2x or 3x** once you reach 5 and 10 combos.)*
 
-2. **스테이지 활용 (Stage Advantage)**:  
+2. **최고 콤보 피날레 (Max Combo Finale)**:
+   게임 내 모든 벽돌을 파괴하여 클리어할 때, 해당 게임 전체에서 기록한 '최고 콤보' 수치만큼 점수가 곱해져 최종 보너스가 지급됩니다.
+   *(When you clear the entire game, your final score is multiplied by your Overall Max Combo for a massive bonus!) *
+
+3. **스테이지 활용 (Stage Advantage)**:  
    높은 스테이지에서 고콤보를 유지하면 배율이 중첩되어 비약적인 점수 획득이 가능합니다.  
    *(Maintain high combos in later stages to stack multipliers for a massive high score!)*
