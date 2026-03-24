@@ -5,6 +5,12 @@ Hello, Breakers!
 We are excited to announce that the Open Beta Test for Lucky Bricks will begin on March 23, 2026.
 The test is expected to run for approximately one week. We plan to proceed with the official launch immediately following the conclusion of the beta. We appreciate your interest and support.
 
+- Open Beta Test Changes
+  1. The All-Clear bonus has been changed to: Score x Max Combo.
+  2. A 'View Details' button has been added to the World Rankings.
+  3. The bottom-most row of bricks has been removed.
+  4. The initial ball speed at the start of the game has been increased.
+
 If you have any questions or feedback, please feel free to reach out via our Discord or the email address below.
 We look forward to hearing your valuable feedback. Thank you!
 
