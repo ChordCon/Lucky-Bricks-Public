@@ -1,7 +1,10 @@
-2026.03.23
-Lucky Bricks(2.2.8)
+2026.03.25
+Lucky Bricks(2.2.9)
 
 Proceed with public testing
-1. Modify the frequency of the ball reset pop-up
-2. Modify bar shape and speed
-3. Modifying Combo Score
+1. Change the number of bricks
+2. Increasing the speed of the initial ball
+3. Add Max Combo UI
+4. Adjust all brick destruction magnification
+5. Change Leaderboard title
+6. Add detailed view to world ranking pop-up
