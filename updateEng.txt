@@ -1,10 +1,10 @@
-2026.03.25
-Lucky Bricks(2.2.9)
+2026.03.26
+Lucky Bricks(2.3.0)
 
 Proceed with public testing
-1. Change the number of bricks
-2. Increasing the speed of the initial ball
-3. Add Max Combo UI
-4. Adjust all brick destruction magnification
-5. Change Leaderboard title
-6. Add detailed view to world ranking pop-up
+1. Add Nickname Language
+2. Change the World Ranking Pop-up UI
+3. Change Detail Pop-up UI
+4. Change the default bar size
+5. Bonus Effect Highlight Error Correction
+6. Change nickname display font
