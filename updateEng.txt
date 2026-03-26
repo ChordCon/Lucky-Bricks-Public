@@ -1,10 +1,7 @@
 2026.03.26
-Lucky Bricks(2.3.0)
+Lucky Bricks(2.3.1)
 
 Proceed with public testing
-1. Add Nickname Language
-2. Change the World Ranking Pop-up UI
-3. Change Detail Pop-up UI
-4. Change the default bar size
-5. Bonus Effect Highlight Error Correction
-6. Change nickname display font
+1. Add 'Terms and Conditions Link' button to notification
+2. Change the world ranking pop-up
+3. Add inappropriate nickname change function
