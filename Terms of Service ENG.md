@@ -1,5 +1,5 @@
 Terms of Service (Lucky Bricks)<br>
-Last Updated: 2026-03-10
+Last Updated: 2026-03-26
 
 1. Purpose<br>
 These Terms of Service (the "Terms") govern the conditions and procedures for using "Lucky Bricks" (the "Game"), as well as the rights, obligations, and responsibilities of the user and the developer.
@@ -30,7 +30,7 @@ The developer shall not be liable for any service interruptions caused by force 
 7. Termination and Service Restrictions<br>
 If a user violates these Terms, the developer may take the following actions:
 
- - Nickname Change Recommendation and Grace Period: If an inappropriate nickname is detected, the developer will notify the user via the in-game mailbox and recommend a change. If the user fails to change the nickname within 7 days of the notification, the developer reserves the right to forcibly change the nickname to a default value (e.g., Player) without further notice.
+ - Nickname Change Recommendation and Grace Period: If an inappropriate nickname is detected, the developer will notify the user via the in-game mailbox and recommend a change. If the user fails to change the nickname within 7 days of the notification, the developer reserves the right to forcibly change the nickname to a default value without further notice.
 
  - Service Restrictions: If the user continues to use inappropriate nicknames or repeatedly violates operating policies after the above measures, the developer may restrict or permanently suspend the user’s access to the service without prior notice.
 
