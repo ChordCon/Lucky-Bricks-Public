@@ -11,6 +11,7 @@ The test is expected to run for approximately one week. We plan to proceed with 
   3. The bottom-most row of bricks has been removed.
   4. The initial ball speed at the start of the game has been increased.
   5. Change the default bar size
+  6. Add inappropriate nickname change function
 
 If you have any questions or feedback, please feel free to reach out via our Discord or the email address below.
 We look forward to hearing your valuable feedback. Thank you!
