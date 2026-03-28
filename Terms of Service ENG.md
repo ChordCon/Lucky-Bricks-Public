@@ -30,7 +30,7 @@ The developer shall not be liable for any service interruptions caused by force 
 7. Termination and Service Restrictions<br>
 If a user violates these Terms, the developer may take the following actions:
 
- - Nickname Change Recommendation and Grace Period: If an inappropriate nickname is detected, the developer will notify the user via the in-game mailbox and recommend a change. If the user fails to change the nickname within 7 days of the notification, the developer reserves the right to forcibly change the nickname to a default value without further notice.
+ - If an inappropriate nickname is identified, we will issue a recommendation to change it through an in-game pop-up. Please be advised that if the nickname is not updated within 7 days of this notification, it may be forcibly changed to a default setting without additional notice.
 
  - Service Restrictions: If the user continues to use inappropriate nicknames or repeatedly violates operating policies after the above measures, the developer may restrict or permanently suspend the user’s access to the service without prior notice.
 
