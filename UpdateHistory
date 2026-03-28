@@ -1,21 +1,20 @@
 
 2026.03.28
-Lucky Bricks(2.3.2)
+Lucky Bricks(2.3.3)
 
 공개 테스트 진행
 1. 가이드에 오타 수정
 2. 탑3 기본값 로딩중 변경
 3. 닉네임 확인 기능 오류 수정
 4. 실제 광고 추가
-
-2026.03.28
-Lucky Bricks(2.3.2)
+5. 점수에 쉼표 추가
 
 Proceed with public testing
 1. Correct typos in guide
 2. Change Top 3 Defaults
 3. Correct 'Nickname check' error
 4. Add real advertising
+5. Add comma to score
 
 -----------------------------------------------
 
