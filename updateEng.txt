@@ -1,5 +1,5 @@
 2026.03.28
-Lucky Bricks(2.3.3)
+Lucky Bricks(2.3.5)
 
 Proceed with public testing
 1. Correct typos in guide
