@@ -1,3 +1,7 @@
-Lucky Bricks(2.3.7)
+Lucky Bricks(2.3.9)
 
-1. Season start and season error corrections
+1. Correction of offline mode error
+2. Correct record initialization error
+3. Add loading screen
+4. Improved FPS
+5. Improved notice pop-up
