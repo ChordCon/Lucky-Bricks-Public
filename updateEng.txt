@@ -1,4 +1,4 @@
-Lucky Bricks(2.3.9)
+Lucky Bricks(2.4.0)
 
 1. Correction of offline mode error
 2. Correct record initialization error
