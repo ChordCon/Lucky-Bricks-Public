@@ -11,19 +11,6 @@ We hope you enjoy the game and aim for the highest score!
   Rank Reset: At the start of each new season, all ranking records will be reset, and a new competition will begin.
   Season 1 runs through the end of April. Challenge yourself to become the first-ever champion!
 
-[Known Issues]
-  We have identified the following issues that may cause inconvenience during gameplay. We are currently working on a fix as a top priority.
-
-  - Offline Mode Entry Error: Occasional issues with game execution when a network connection is unavailable.
-  - Record Synchronization Issue: Rare instances where season records may appear incorrectly or reset unexpectedly in certain environments.
-
-[Upcoming Update Preview]
-  The following improvements and bug fixes will be implemented in the next update:
-
-  - System Stabilization: Fixes for Offline Mode and record synchronization bugs.
-  - UX Improvements: Addition of a data loading screen at startup.
-  - Performance Optimization: FPS Limit Unlock (Supporting smoother gameplay on PC and high-end devices).
-
 Thank you.
 
 If you have any questions or feedback, please feel free to reach out via our Discord or the email address below.
