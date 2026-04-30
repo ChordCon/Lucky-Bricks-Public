@@ -1,16 +1,17 @@
 [Notice]
-Lucky Bricks Grand Opening!
+World Ranking Reset & New Content Update
 
 Hello, Breakers!
-We are thrilled to announce that Lucky Bricks has officially launched today, March 30, 2026!
-Thank you for your patience and support.
-We hope you enjoy the game and aim for the highest score!
+Thank you for your continued support and love for Lucky Bricks.
+Starting May 1, 2026, the following system updates will be implemented:
 
-- Season & Rank Reset Information
-  Season Period: 1st to the last day of every month.
-  Rank Reset: At the start of each new season, all ranking records will be reset, and a new competition will begin.
-  Season 1 runs through the end of April. Challenge yourself to become the first-ever champion!
+World Ranking Reset: To mark the beginning of a new season, all world rankings will be reset as of May 1, 2026.
 
+Roguelike Mode (Beta) Open: Discover a new way to play! The Roguelike Mode (Beta) will be available starting May 1.
+
+April Rankings Archive: The final TOP 100 rankings for April have been posted on our official Discord in the [top100] channel.
+
+910Games will continue to strive to provide an even more enjoyable gaming experience.
 Thank you.
 
 If you have any questions or feedback, please feel free to reach out via our Discord or the email address below.
