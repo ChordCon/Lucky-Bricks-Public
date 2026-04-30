@@ -1,7 +1,5 @@
-Lucky Bricks(2.4.0)
+Lucky Bricks(2.4.3)
 
-1. Correction of offline mode error
-2. Correct record initialization error
-3. Add loading screen
-4. Improved FPS
-5. Improved notice pop-up
+1. Changed the default size of the bar
+2. Adjusted the ball's angle calculation values
+3. Added Roguelike Mode (Beta)
