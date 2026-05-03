@@ -1,18 +1,15 @@
 [Notice]
-World Ranking Reset & New Content Update
+Lucky Bricks Bug Reports & Fix Plan
+Hello, this is 910Games.
+We would like to inform you about the major bugs currently identified within the game. We sincerely apologize for any inconvenience.
 
-Hello, Breakers!
-Thank you for your continued support and love for Lucky Bricks.
-Starting May 1, 2026, the following system updates will be implemented:
+Identified Issues
+Record Saving Error: There is an issue where records for Combo Mode and Roguelike Mode are not being saved if the score is lower than your previous high score.
 
-World Ranking Reset: To mark the beginning of a new season, all world rankings will be reset as of May 1, 2026.
+Roguelike Mode Progression Bug: A bug has been confirmed in the Diamond Boss Stage where bricks are not being destroyed, preventing gameplay.
 
-Roguelike Mode (Beta) Open: Discover a new way to play! The Roguelike Mode (Beta) will be available starting May 1.
-
-April Rankings Archive: The final TOP 100 rankings for April have been posted on our official Discord in the [top100] channel.
-
-910Games will continue to strive to provide an even more enjoyable gaming experience.
-Thank you.
+Fix Plan
+We are working to fix these issues as quickly as possible. We will notify you once the update is complete.
 
 If you have any questions or feedback, please feel free to reach out via our Discord or the email address below.
 We look forward to hearing your valuable feedback.
