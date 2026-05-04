@@ -1,17 +1,22 @@
 [Notice]
-Lucky Bricks Bug Reports & Fix Plan
+Lucky Bricks Error Fixes & Update Plans
 Hello, this is 910Games.
-We would like to inform you about the major bugs currently identified within the game. We sincerely apologize for any inconvenience.
+First of all, we sincerely apologize for any inconvenience caused while playing Lucky Bricks. We would like to provide an update on the current status of the identified issues and our plans for future improvements.
 
-Identified Issues
-Record Saving Error: There is an issue where records for Combo Mode and Roguelike Mode are not being saved if the score is lower than your previous high score.
+Error Fixes & Actions Taken
+Record Saving Issue Resolved: The issue where records in Combo and Roguelike modes were not saving correctly when scoring lower than your personal high score has been fully resolved. All records are now being tracked and saved normally.
 
-Roguelike Mode Progression Bug: A bug has been confirmed in the Diamond Boss Stage where bricks are not being destroyed, preventing gameplay.
+Roguelike Mode Stabilization: We are aware of the bugs in Roguelike mode, including the progression issue on the Diamond Boss stage. We are continuously releasing patches to fix these errors and improve stability.
 
-Fix Plan
-We are working to fix these issues as quickly as possible. We will notify you once the update is complete.
+Future Plans
+We are committed to consistently monitoring and patching any remaining errors in Roguelike mode through regular updates. Our goal is to provide the most seamless gaming experience possible.
 
-If you have any questions or feedback, please feel free to reach out via our Discord or the email address below.
-We look forward to hearing your valuable feedback.
+Thank you for your patience. If you have any questions or suggestions, please feel free to contact us via Discord or email.
 
-Support Email: gustn400@naver.com
+Email: gustn400@naver.com
+
+We always value your feedback as we continue to improve.
+
+Best regards,
+
+910Games
