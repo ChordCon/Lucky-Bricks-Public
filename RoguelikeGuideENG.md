@@ -16,9 +16,9 @@ In every round, **5 Lock Bricks** are generated in random locations. Destroying 
 | No. | Effect Name | Detailed Function | Probability |
 | :-- | :--- | :--- | :--- |
 | **1** | **Reduce Bar Size** | Decreases paddle length (**+3 pts** per brick) | 19.23% |
-| **2** | **Increase Bar Size** | Increases paddle length (**-2 pts** per brick) | 19.23% |
+| **2** | **Increase Bar Size** | Increases paddle length (**-1 pts** per brick) | 19.23% |
 | **3** | **Increase Ball Speed** | Increases ball movement speed (**+3 pts** per brick) | 19.23% |
-| **4** | **Decrease Ball Speed** | Decreases ball movement speed (**-2 pts** per brick) | 19.23% |
+| **4** | **Decrease Ball Speed** | Decreases ball movement speed (**-1 pts** per brick) | 19.23% |
 | **5** | **Score Bonus** | Instantly adds **+100 pts** to current score | 19.23% |
 | **6** | **Score x 2** | Applies a **x2 multiplier** to current total score | **3.85%** |
 
