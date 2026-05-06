@@ -31,9 +31,9 @@ In Roguelike Mode, probabilities are applied differently based on the difficulty
 | 번호 | 효과 명칭 (Effect Name) | 상세 기능 (Detailed Function) | 등장 확률 (Prob.) |
 | :---: | :--- | :--- | :---: |
 | 1 | **바 크기 감소 (Bar size down)** | 패들 축소 (**브릭당 +3점**) / Paddle Down (**+3 pts per brick**) | **19.23%** |
-| 2 | **바 크기 증가 (Bar size up)** | 패들 확장 (**브릭당 -2점**) / Paddle Up (**-2 pts per brick**) | **19.23%** |
+| 2 | **바 크기 증가 (Bar size up)** | 패들 확장 (**브릭당 -1점**) / Paddle Up (**-2 pts per brick**) | **19.23%** |
 | 3 | **공 속도 증가 (Ball speed up)** | 속도 상승 (**브릭당 +3점**) / Speed Up (**+3 pts per brick**) | **19.23%** |
-| 4 | **공 속도 감소 (Ball speed down)** | 속도 저하 (**브릭당 -2점**) / Speed Down (**-2 pts per brick**) | **19.23%** |
+| 4 | **공 속도 감소 (Ball speed down)** | 속도 저하 (**브릭당 -1점**) / Speed Down (**-2 pts per brick**) | **19.23%** |
 | 5 | **점수 보너스 (Score Bonus)** | **+100점** 즉시 합산 / **+100 points** added immediately | **19.23%** |
 | 6 | **점수 x 2 (Score x 2)** | 현재 점수 **x2배** 적용 / Current score **multiplied by 2** | **3.85%** |
 
