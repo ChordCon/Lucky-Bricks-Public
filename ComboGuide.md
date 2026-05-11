@@ -55,7 +55,8 @@
 높은 스테이지에서 고콤보를 유지하면 배율이 중첩되어 비약적인 점수 획득이 가능합니다.  
 *(Maintain high combos in later stages to stack multipliers for a massive high score!)*
 
-**콤보 모드(COMBO MODE)**
+---
+
 # 🎮 게임 보너스 & 효과 가이드 (Game Bonus & Effect Guide)
 
 본 가이드는 게임 내 아이템 효과와 최종 점수 합산 시 적용되는 보너스 규칙을 설명합니다.  
