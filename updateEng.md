@@ -1,12 +1,13 @@
 ## 🚀 Lucky Bricks (v2.4.5) Update
 
-This update focuses on improving stability and providing a smoother gaming experience for all our players.
+Here are the latest update details to improve the stability of **Lucky Bricks** and provide a smoother gaming environment.
 
 ### ✅ Key Updates
 
-1. **Fixed Leaderboard Errors**
-
-2. **Fixed Roguelike Mode Bugs**
+1. Fixed Reroll button error
+2. Fixed in-app webpage display error
+3. Added App Notification (Push) feature
+4. Added In-App Review feature
 
 ---
 
