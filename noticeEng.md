@@ -1,33 +1,39 @@
-## [Notice] Lucky Bricks Error Fixes & Update Plans
+## [Notice] Lucky Bricks Bug Fixes & New Features Update
 
 Hello, this is **910Games**.
 
-First of all, we sincerely apologize for any inconvenience caused while playing **Lucky Bricks**. We would like to provide an update on the current status of the identified issues and our plans for future improvements.
+First, we would like to express our gratitude to all the players who love **Lucky Bricks**, and we sincerely apologize for any inconvenience you may have experienced while playing.
+
+We would like to provide an update on the current bug fixes, newly added features, and our plans for the future.
 
 ---
 
-### 🛠 Error Fixes & Actions Taken
+### 🛠 Bug Fixes & Improvements
 
-* **Record Saving Issue Resolved**
-    * The issue where records were not saving correctly when scoring lower than your personal high score has been fully resolved.
-    * All records in every mode are now being tracked and saved normally.
-
-* **Roguelike Mode Stabilization**
-    * We have fixed various errors within the Roguelike mode, including the progression bug on the Diamond Boss stage.
-    * We are continuously releasing patches to ensure better stability.
+* **Reroll Button & In-App Webpage Fixes**
+    * Fixed an issue where the **Reroll button** was not functioning correctly on certain screens.
+    * Improved the **In-app webpage display error** that occurs within the game, ensuring a more stable experience without needing to switch to an external browser.
 
 ---
 
-### 🚀 Future Plans
+### 🚀 New Features
 
-We are committed to consistently monitoring and patching any remaining errors in Roguelike mode through regular updates. Our goal is to provide the most seamless gaming experience possible.
+* **App Notifications (Push Notifications)**
+    * A notification feature has been added so you won't miss out on major events, rewards, and update news.
+* **In-App Review Function**
+    * We have introduced a feature that allows you to easily leave star ratings and feedback directly within the game.
 
-Thank you for your patience. If you have any questions or suggestions, please feel free to contact us via our official channels.
+---
 
-* **Discord**: [Official Server]
-* **Email**: gustn400@naver.com
+### 📅 Future Plans
 
-We always value your feedback as we continue to grow and improve.
+In particular, we plan to immediately fix any bugs discovered in the Roguelike mode through continuous monitoring. We will do our best to provide an even more pleasant and enjoyable gaming environment.
 
-Best regards,  
+If you have any questions or suggestions while using the game, please feel free to contact us through the channel below. Your valuable feedback is a great help in growing Lucky Bricks.
+
+* **Support Email**: gustn400@naver.com
+
+Thank you.
+
+**Best regards,**
 **910Games**
