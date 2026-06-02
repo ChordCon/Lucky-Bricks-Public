@@ -1,10 +1,8 @@
-## 🚀 Lucky Bricks (v2.4.5) Update
-
-Here are the latest update details to improve the stability of **Lucky Bricks** and provide a smoother gaming environment.
+## 🚀 Lucky Bricks (v2.5.4) Update
 
 ### ✅ Key Updates
 
-1. Tutorial improvements
+1. New Season Starts!
 
 ---
 
